@@ -1,0 +1,1 @@
+# Project Test-Mode [![Build status](https://ci.appveyor.com/api/projects/status/h95tchdchs0gjccb?svg=true)](https://ci.appveyor.com/project/cubemarin/test-mode)
